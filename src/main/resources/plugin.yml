@@ -1,0 +1,4 @@
+name: CryptoDrinks
+version: ${project.version}
+main: cc.cryptocade.cryptodrinks.CryptoDrinks
+api-version: 1.13
